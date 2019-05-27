@@ -24,6 +24,19 @@ li {
 }
 
 
+/* 段落样式 */
+
+.content-text {
+    font-size: 18px;
+    font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-weight: 500;
+    margin: 15px 10px;
+    padding: 0pt;
+    line-height: 2em;
+    text-indent: 2em;
+}
+
+
 /*头部*/
 
 .h_top {
@@ -98,7 +111,7 @@ li {
     width: 310px;
     float: left;
     margin-left: 10px;
-    margin-top: 19px;
+    margin-top: 6px;
 }
 
 .header .logo img {
@@ -524,7 +537,7 @@ li {
 
 .wrapto {
     width: 1200px;
-    margin: 0 auto;
+    margin: 5px auto 30px;
 }
 
 .wrapto1 {
@@ -650,6 +663,7 @@ li {
     width: 100%;
     border-bottom: 1px solid #fadbdf;
     position: relative;
+    font-size: 19px;
 }
 
 .about-sidebar a:before {
@@ -688,7 +702,8 @@ li {
 }
 
 .title {
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: 600;
     text-align: center;
     border-bottom: 1px solid #efefef;
     padding-bottom: 16px;
@@ -754,8 +769,8 @@ li {
 }
 
 .adv_tit {
-    height: 160px;
-    line-height: 160px;
+    height: 140px;
+    line-height: 140px;
     font-size: 42px;
     text-align: center;
 }
