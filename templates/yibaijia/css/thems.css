@@ -532,7 +532,7 @@ li {
 .wrap .box_m li:hover span{color: #fff;}*/
 
 #yty {
-    margin: 80px 0;
+    margin: 50px 0;
 }
 
 .wrapto {
@@ -576,10 +576,10 @@ li {
     height: 40px;
     margin: 10px 5%;
     text-align: center;
-    font-weight: 100;
+    font-weight: 400;
     border-bottom: 1px dotted #7c0d85;
     font-size: 20px;
-    color: #333;
+    color: #9c4141;
     line-height: 40px;
 }
 
@@ -590,7 +590,8 @@ li {
     line-height: 25px;
     display: block;
     font-size: 14px;
-    color: #6f6f6f;
+    font-weight: 400;
+    color: #000;
     overflow: hidden;
 }
 
