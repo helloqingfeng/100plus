@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
 }
 
 a {
@@ -28,12 +28,24 @@ li {
 
 .content-text {
     font-size: 18px;
-    font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
     font-weight: 500;
     margin: 15px 10px;
     padding: 0pt;
     line-height: 2em;
     text-indent: 2em;
+    letter-spacing: 0.5px;
+}
+
+.text-title {
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+    font-weight: 600;
+    margin: 10px 10px 5px;
+    padding: 0pt;
+    line-height: 1.7em;
+    text-indent: 2em;
+    letter-spacing: normal;
 }
 
 
@@ -148,7 +160,7 @@ li {
 }
 
 .header .nav li {
-    width: 135px;
+    width: 150px;
     height: 100%;
     float: left;
     text-align: center;
@@ -589,7 +601,7 @@ li {
     margin: 25px 5%;
     line-height: 25px;
     display: block;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     color: #000;
     overflow: hidden;
