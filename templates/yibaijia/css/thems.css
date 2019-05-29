@@ -75,7 +75,7 @@ li {
     zoom: 1;
     height: 16px;
     line-height: 16px;
-    background: url(http://51100plus.com/templates/yibaijia/images/tel_ico.png) no-repeat left center;
+    background: url(../images/tel_ico.png) no-repeat left center;
     padding-left: 20px;
     vertical-align: top;
     margin-top: 4px;
@@ -96,7 +96,7 @@ li {
     width: 100%;
     height: 110px;
     margin: 0px auto;
-    background: url(http://51100plus.com/templates/yibaijia/images/head_bg.jpg) repeat;
+    background: url(../images/head_bg.jpg) repeat;
     min-width: 1000px;
 }
 
@@ -128,7 +128,7 @@ li {
     margin-top: 30px;
     color: #666;
     padding-left: 44px;
-    background: url(http://www.51100plus.com/templates/yibaijia/images/h_pho.png) no-repeat left;
+    background: url(../images/h_pho.png) no-repeat left;
     line-height: 20px;
 }
 
@@ -203,7 +203,7 @@ li {
 }
 
 .foot .foot_m1 ul {
-    width: 120px;
+    width: 140px;
     float: left;
 }
 
@@ -262,15 +262,15 @@ li {
 }
 
 .foot_m2 #sp2 {
-    background: url(http://51100plus.com/templates/yibaijia/images/icon3.png) no-repeat left;
+    background: url(../images/icon3.png) no-repeat left;
 }
 
 .foot_m2 #sp3 {
-    background: url(http://51100plus.com/templates/yibaijia/images/icon4.png) no-repeat left;
+    background: url(../images/icon4.png) no-repeat left;
 }
 
 .foot_m2 #sp4 {
-    background: url(http://51100plus.com/templates/yibaijia/images/icon5.png) no-repeat left;
+    background: url(../images/icon5.png) no-repeat left;
 }
 
 .foot_m3 {
@@ -389,7 +389,7 @@ li {
     display: block;
     width: 50px;
     height: 100px;
-    background: url(http://51100plus.com/templates/yibaijia/images/arrow.png) 0px 0px no-repeat;
+    background: url(../images/arrow.png) 0px 0px no-repeat;
     margin: 0 auto;
     margin-top: 0px;
 }
@@ -398,7 +398,7 @@ li {
     display: block;
     width: 50px;
     height: 100px;
-    background: url(http://51100plus.com/templates/yibaijia/images/arrow.png) -50px 0px no-repeat;
+    background: url(../images/arrow.png) -50px 0px no-repeat;
     margin: 0 auto;
     margin-top: 0px;
 }
@@ -598,7 +598,7 @@ li {
 .sfpp {
     width: 100%;
     height: 100%;
-    background: url(http://51100plus.com/templates/yibaijia/images/fk.png) repeat;
+    background: url(../images/fk.png) repeat;
     position: absolute;
     top: 0;
     left: -400px;
@@ -686,7 +686,7 @@ li {
 .about-sidebar {
     border: 1px solid #fadbdf;
     width: 180px;
-    background: url(http://51100plus.com/templates/yibaijia/images/flower.jpg) no-repeat 100% 100%;
+    background: url(../images/flower.jpg) no-repeat 100% 100%;
     float: left;
     padding-bottom: 140px;
 }
